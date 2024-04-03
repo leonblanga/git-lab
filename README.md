@@ -7,6 +7,8 @@ Leon Blanga Hasbani
 ## Contents
 ### Images
 
+![TEC´s Logo](logo.jpg)
+
 ## References
 [Github documentation](https://docs.github.com/en)
 
