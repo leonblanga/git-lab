@@ -1,4 +1,9 @@
 # Git and Github Laboratory
-Git Practice Laboratory
+## Description
+Git Practice Laboratory for software construction and decision making 
 
 Leon Blanga Hasbani
+
+## Contents
+
+## References
