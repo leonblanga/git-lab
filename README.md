@@ -8,7 +8,7 @@ Leon Blanga Hasbani
 ### Images
 
 ![TEC´s Logo](logo.jpg)
-
+![img2](logoGit.png)
 ### Code examples
 
 ```python print(5 + 7) ```
